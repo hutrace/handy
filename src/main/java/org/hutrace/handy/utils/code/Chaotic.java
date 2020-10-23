@@ -7,7 +7,7 @@ import java.io.InputStream;
 
 /**
  * <p>混乱的加解密方式
- * @author <a href="http://www.wayakeji.net/"> Waya Co.,Ltd Hutrace</a>
+ * @author hu trace
  * @since 1.8
  * @version 1.0
  * @time 2019年7月26日

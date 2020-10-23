@@ -4,7 +4,7 @@ import io.netty.channel.ChannelHandlerContext;
 
 /**
  * <p>公共MsgHandler处理接口
- * @author <a href="http://www.wayakeji.net/"> Waya Co.,Ltd Hutrace</a>
+ * @author hu trace
  * @since 1.8
  * @version 1.0
  */

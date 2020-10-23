@@ -206,7 +206,7 @@ public class LanguageLoader implements Loader {
 			try {
 				return new SystemProperty(SystemLanguage.valueOf(language.system.replace('-', '_').toUpperCase()));
 			}catch (Exception e) {
-				throw new AppLoaderException("系统语言错误，请根据com.wayakeji.fastserve.language.SystemLanguage中包含的值设定.", e);
+				throw new AppLoaderException("系统语言错误，请根据org.hutrace.handy.language.SystemLanguage中包含的值设定.", e);
 			}
 		}
 		return null;

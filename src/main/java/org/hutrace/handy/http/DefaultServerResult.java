@@ -11,7 +11,7 @@ package org.hutrace.handy.http;
  *      5xxx -- 系统错误
  *      60xx -- 中间层错误（框架层）
  *      61xx -- 业务错误
- * @author <a href="http://www.wayakeji.net/"> Waya Co.,Ltd tracy</a>
+ * @author hu trace
  * @see ServerResult
  * @since 1.8
  * @version 1.0

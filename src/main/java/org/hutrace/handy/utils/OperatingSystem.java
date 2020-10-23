@@ -2,7 +2,7 @@ package org.hutrace.handy.utils;
 
 /**
  * <p>获取操作系统、判断操作系统等操作
- * @author <a href="http://www.wayakeji.net/"> Waya Co.,Ltd tracy</a>
+ * @author hu trace
  * @since 1.8
  * @version 1.0
  * @time 2019年3月22日

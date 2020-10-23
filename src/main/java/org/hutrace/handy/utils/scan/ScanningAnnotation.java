@@ -28,7 +28,7 @@ import org.slf4j.LoggerFactory;
 /**
  * <p>根据包路径与注解类型扫描得到对应的类
  * <p>可扩展methodAnnotation得到对应类下对应的方法
- * @author <a href="http://www.wayakeji.net/"> Waya Co.,Ltd tracy</a>
+ * @author hu trace
  * @since 1.8
  * @version 1.0
  */

@@ -27,14 +27,14 @@ import io.netty.util.concurrent.EventExecutorGroup;
  * @author hu trace
  *
  */
-public final class FastServer {
+public final class Handyserve {
 
-	public static final String SERVER_NAME = "fastserver";
-	public static final String SERVER_VERSION = "/5.0.1";
+	public static final String SERVER_NAME = "handyserver";
+	public static final String SERVER_VERSION = "/1.0.0";
 	
 	private long startTime = System.currentTimeMillis();
 	
-	private FastServer() {}
+	private Handyserve() {}
 	
 	private void loader() throws AppLoaderException {
 		loaderExecute(LanguageLoader.instance);
@@ -98,8 +98,8 @@ public final class FastServer {
 	 * @return 
 	 * @throws HandyserveException
 	 */
-	public static FastServer instance() throws HandyserveException {
-		FastServer server = new FastServer();
+	public static Handyserve instance() throws HandyserveException {
+		Handyserve server = new Handyserve();
 		server.loader();
 		return server;
 	}

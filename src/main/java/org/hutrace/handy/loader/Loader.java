@@ -5,7 +5,7 @@ import org.hutrace.handy.exception.AppLoaderException;
 /**
  * <p>加载器规范接口
  * <p>加载器必须实现此接口才能配置
- * @author <a href="http://www.wayakeji.net/"> Waya Co.,Ltd Hutrace</a>
+ * @author hu trace
  * @since 1.8
  * @version 1.0
  * @time 2019年5月15日

@@ -2,7 +2,7 @@ package org.hutrace.handy.utils;
 
 /**
  * <p>字符串编码常量
- * @author <a href="http://www.wayakeji.net/"> Waya Co.,Ltd tracy</a>
+ * @author hu trace
  * @since 1.8
  * @version 1.0
  */

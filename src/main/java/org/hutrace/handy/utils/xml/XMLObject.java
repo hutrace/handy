@@ -18,7 +18,7 @@ import io.netty.buffer.ByteBuf;
  * <p>此类中包含将XML的各种数据源解析为{@link JSONObject}以及{@link ValidateJSONObject}
  * <p>因为{@link JSONObject}中包含了解析成JavaBean的方法, 故在此处没有进一步封装类似的方法
  * <p>此方法是对{@link XMLSerializer}的进一步封装
- * @author <a href="http://www.wayakeji.net/"> Waya Co.,Ltd Hutrace</a>
+ * @author hu trace
  * @see XMLSerializer
  * @see JSONObject
  * @see ValidateJSONObject

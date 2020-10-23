@@ -9,7 +9,7 @@ import org.hutrace.handy.exception.ScanningApplicationException;
 /**
  * <p>提供需要扫描的接口规范
  * <p>当需要扫描包时继承此接口
- * @author <a href="http://www.wayakeji.net/"> Waya Co.,Ltd tracy</a>
+ * @author hu trace
  * @since 1.8
  * @version 1.0
  * @time 2019年3月22日

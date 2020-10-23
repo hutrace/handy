@@ -14,7 +14,7 @@ import com.alibaba.fastjson.util.TypeUtils;
 /**
  * <p>JSON参数转换器, 实现{@link HttpMsgsConverter}接口, 达到转换器的作用
  * <p>此转换器用于对JSON数据进行转换
- * @author <a href="http://www.wayakeji.net/"> Waya Co.,Ltd Hutrace</a>
+ * @author hu trace
  * @see HttpMsgsConverter
  * @since 1.8
  * @version 1.0
