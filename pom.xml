@@ -86,7 +86,7 @@
 	</scm>
 
 	<build>
-		<finalName>server</finalName>
+		<finalName>handy</finalName>
 		<resources>
 			<resource>
 				<directory>src/main/resources</directory>
